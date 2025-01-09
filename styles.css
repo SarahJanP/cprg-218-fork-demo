@@ -1,0 +1,33 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	background-color:black;
+	color:white;
+	font-size:125%;
+	font-family:sans-serif;
+}
+a{
+	color:orange;
+}
+a:visited{
+	color:lime;
+}
+p{
+	line-height:130%;
+}
+#fork{
+	width:450px;
+	height:450px;
+	margin-right:1rem;
+	float:left;
+}
+
+a.button{
+	display:inline-block;
+	text-decoration:none;
+	background-color:yellow;
+	color:black;
+	padding:0.5rem;
+	border:2px solid orange;
+}
